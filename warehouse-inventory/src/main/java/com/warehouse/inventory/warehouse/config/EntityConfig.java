@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EntityScan("com.tmmin.scc.lib.master.main.entity")
+@EntityScan("com.warehouse.inventory.warehouse.entity")
 public class EntityConfig {
 
 }
